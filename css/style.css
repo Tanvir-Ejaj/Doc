@@ -881,6 +881,10 @@ nav .main-f {
   color: #64686a;
 }
 
+.ex-cont{
+  position: relative;
+}
+
 .extra-button{
   position: fixed;
   bottom: 10%;
